@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Ondo State tour Guide</string>
+    <!--String for Event Title-->
+    <string name="events">Events</string>
+
+    <!--String for Hotels Title-->
+    <string name="hotels">Hotels</string>
+
+    <!--String for Site Seeing Locations Title-->
+    <string name="site_seeing">Site Seeing</string>
+
+    <!--String for Restaurants Title-->
+    <string name="restaurants">Restaurants</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Tab String-->
+    <string name="view">View All Attractions</string>
+
+    <!-- Describe Ondo title-->
+    <string name="info">All about Ondo</string>
+
+    <string name="about_ondo"> Located in south-west geopolitical zone of Nigeria,
+        Ondo State was created in 1976 out of the defunct Western State
+        and it has 19 local government areas which include Akoko-Northeast,
+        Akoko-Northwest, Akoko-Southwest, Akoko-Southeast, Akure-South,
+        Akure-North, Ese-Odo, Idanre, Ifedore, Ilaje, Ile-Oluji-Okeigbo,
+        Irele, Odigbo, Okitipupa, Ondo West, Ondo East, Ose, and Owo./n
+        The state is predominantly occupied by the Yorubas who speak various dialects of the language such
+        as the Akoko, Akure, Apoi, Idanre, Ijaw, Ikale, Ilaje, Ondo and the Owo. Ondo State,
+        which is indeed a microcosm of the Nigerian nation, is blessed with resourceful,
+        industrious and hospitable people. Her crop of educated elite has led to its being classified
+        as one of the most educationally advanced states in Nigeria. With a population of 3,441,024 comprising
+        1,761,263 males and 1,679,761 females, the people of the state are mostly subsistence farmers, fishermen and traders.
+        /n The state is bounded in the north by Ekiti and Kogi States; in the east by Edo State; in the west by Oyo and Ogun States,
+        and in the south by the Atlantic Ocean.
+    </string>
+
+    <!--Top Attractions-->
+    <string name="top_attractions">Top Attractions</string>
+
+    <!--New Attractions-->
+    <string name="new_attractions">New Attraction</string>
+
+    <string name= "event_title1">NCND closing ceremony and dinner</string>
+    <string name="event_title2">OONI Speaks at Chatham (Leadership)</string>
+    <string name="event_title3">"PASUMA 50th Birthday"</string>
+    <string name="event_title4">Ugogo Masquerade festival</string>
+    <string name="event_title5">Getup Charity Concert</string>
+
+    <string name="rating_1"> rating: 1</string>
+    <string name="rating_2"> rating: 2</string>
+    <string name="rating_3"> rating: 3</string>
+    <string name="rating_4"> rating: 4</string>
+    <string name="rating_5"> rating: 5</string>
+
+    <string name="event_contact_info">ondo.events@gmail.com</string>
+
+    <string name="string_placeholder">String</string>
+    <string name="hotel_amazon">Amazon Hotel and Suites</string>
+    <string name="hotel.world_class">World Class Hotel</string>
+    <string name="hotel_crystal">Crystal Suites, Akure</string>
+    <string name="restaurant_fingerlicking">Fingerlicking Restaurant</string>
+    <string name="restaurant_chicken">Chicken Republic</string>
+    <string name="restaurant_captain_cook">Captain Cook Eatery</string>
+    <string name="restaurant_tantalizers">Tantalizers</string>
+    <string name="phone_fingerlicking">0806 066 1102</string>
+    <string name="phone_chicken">0703 363 3573</string>
+    <string name="phone_captain_cook">0703 230 0407</string>
+    <string name="phone_tantalizers">0709 242 1274</string>
+    <string name="site_deji_akure">Deji of Akure Palace</string>
+    <string name="site_idanre">Idanre Hills</string>
+    <string name="site_caves_ashes">Cave of Ashes</string>
+    <string name="site_igbo">Igbo Olodumare</string>
+    <string name="site_ebomi">Ebomi Lake Tourist Centre</string>
+    <string name="event_title">Event</string>
+    <string name="hotel_title">Hotel</string>
+    <string name="eat_title">Eat Here</string>
+    <string name="go_to_title">Go To</string>
+
+
+</resources>
